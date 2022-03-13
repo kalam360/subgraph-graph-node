@@ -1,0 +1,8 @@
+sources:
+  - name: subgraphtest
+    handler:
+      graphql:
+        endpoint: http://localhost:8000/subgraphs/name/kalam360/subgraph-test
+
+
+        
